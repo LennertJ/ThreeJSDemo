@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.canvas{
+  height: 100vh;
+}
+
+.canvas:hover {
+  cursor: pointer;
+}
